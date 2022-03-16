@@ -1,0 +1,33 @@
+.cabecera{
+	background-color: #529ABB;
+	text-align: center;
+	color: white;
+	font-family: Arial;
+}
+.about{
+	text-align:center;
+	font-family: Arial;
+}
+.C{
+	background-color: #fcfcfc;
+	text- align: center: ;
+    font-family: Arial;
+}
+.boton{
+	background-color:#008CBA;
+    border: none;
+    color: white;
+    padding: 2px 2px;
+    text-align:center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;
+    font-family: Arial;
+    
+}
+.D{
+	align-items: center;
+
+}
